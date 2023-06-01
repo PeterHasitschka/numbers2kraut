@@ -1,15 +1,14 @@
-# numbers2words
+# Numbers2Kraut
 
-To install dependencies:
+Convert numbers to german words.
 
-```bash
-bun install
-```
+## Usage
 
-To run:
+- Run dev mode : `bun watch`
+- Build : `bun build`
+- Test: `npm run test` (TODO: Support bun)
 
-```bash
-bun run index.ts
-```
+## Next steps
 
-This project was created using `bun init` in bun v0.5.2. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+- Extend Powers (1000s, Millions, etc.)
+- Create NPM Package
