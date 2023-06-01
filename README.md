@@ -2,6 +2,8 @@
 
 Convert numbers to german words.
 
+E.g. `456.32` is converted to `vierhundertsechsundfünfzigkommadreizwei`
+
 ## Usage
 
 - Run dev mode : `bun watch`
